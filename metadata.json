@@ -1,0 +1,10 @@
+{
+  "name": "Lado Bhen AI",
+  "description": "Beloved witty real-time voice-to-voice AI sister who supports, teases, and cares for you.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
